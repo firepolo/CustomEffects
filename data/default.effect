@@ -22,7 +22,7 @@ VertexInOut VShader(VertexInOut vert_in)
 
 float4 PShader(VertexInOut fragment_in) : TARGET
 {
-	return image.Sample(texSampler, fragment_in.uv) * float4(1.0, 1.0, 1.0, 1.0);
+	return image.Sample(texSampler, fragment_in.uv);
 }
 
 technique Draw
