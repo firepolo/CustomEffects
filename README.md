@@ -13,4 +13,4 @@
 - Create own file ".effect" and copy their in ".../obs-studio/data/obs-plugins/custom-effects/--HERE--"
 
 ## Important
-Leave the file "default.effect" in data of plugin
+- Leave the file "default.effect" in data of plugin
