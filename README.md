@@ -17,3 +17,7 @@
 
 ## Important
 - When an error occur during the compilation of shader effect, the filter is grayscale source with error message. 
+
+## Preview
+[Preview of GameBoy Effect](https://obsproject.com/forum/attachments/preview-jpg.49181)
+[Preview of Error](https://obsproject.com/forum/attachments/error-jpg.49180)
