@@ -1,5 +1,5 @@
 # Downloading
-[https://obsproject.com/forum/resources/custom-effects.863](https://obsproject.com/forum/resources/custom-effects.863)
+[https://obsproject.com/forum/resources/custom-effect.871](https://obsproject.com/forum/resources/custom-effects.871)
 
 # Installation
 - Extract archive
