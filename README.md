@@ -16,7 +16,8 @@
 - You can reload directly the file ".effect" after your modification done.
 
 ## Important
-- When an error occur during the compilation of shader effect, the filter is grayscale source with error message. 
+- When an error occur during the compilation of shader effect, the filter is grayscale source with error message.
+- The effects are created with the language HLSL. It's a language used principally for programming shaders in DirectX video games. [https://www.tutorialspoint.com/directx/directx_first_hlsl.htm](https://www.tutorialspoint.com/directx/directx_first_hlsl.htm)
 
 ## Preview
 ![Preview of GameBoy Effect](https://obsproject.com/forum/attachments/preview-jpg.49183)
